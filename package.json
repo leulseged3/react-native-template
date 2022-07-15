@@ -1,0 +1,21 @@
+{
+  "name": "react-native-rematch-boilerplate",
+  "version": "0.0.1",
+  "description": "Clean and minimalist React Native template for a quick start with TypeScript Rematch and other setups.",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "keywords": [
+    "react-native",
+    "rematch",
+    "jest",
+    "template",
+    "boilerplate"
+  ],
+  "author": "ELST",
+  "main": "template.config.js"
+}
