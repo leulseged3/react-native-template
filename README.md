@@ -1,5 +1,3 @@
-Our Template Name
-
 ## :star: Features in this template 
 - Typescript support.
 - Can use directly within react native cli.
