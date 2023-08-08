@@ -22,10 +22,8 @@ Our Template Name
 
 Create a new project using the template.
 
-- **Note:** the command will fail if you have the global legacy react-native-cli installed. Make sure you uninstall it first. More info at [react-native-community/cli](https://github.com/react-native-community/cli#about).
-
 ```bash
-$ npx react-native init MyApp --template eaglelionsystemtechnology/react-native-template
+$ npx react-native init MyApp --template leulseged3/react-native-template
 ```
 ## Directory Structure
 
